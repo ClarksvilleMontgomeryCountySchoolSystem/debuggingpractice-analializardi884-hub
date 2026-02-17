@@ -80,7 +80,7 @@ print(f"I like to eat {fruit}")
 # --- Snippet 15 ---
 # This should display a sport
 favorite_sport = ("basketball")
-   print(f"I play {favorite_sport}")
+print(f"I play {favorite_sport}")
 
 # --- Snippet 16 ---
 # This should display a greeting
@@ -90,7 +90,7 @@ print(f"{morning_greeting}")
 # --- Snippet 17 ---
 # This should display a car color
 car_color = ("red")
-print(f"My car is {car_color})
+print(f"My car is {car_color}")
 
 # --- Snippet 18 ---
 # This should display a day
@@ -100,7 +100,7 @@ print(f"Today is {3rd_day}")
 # --- Snippet 19 ---
 # This should display a state
 home_state = ("Texas")
-prnt(f"I live in {home_state}")
+print(f"I live in {home_state}")
 
 # --- Snippet 20 ---
 # This should display a season
