@@ -9,7 +9,7 @@
 
 # --- Snippet 1 ---
 # This should display a greeting
-message = ("Hello, welcome to Python!")
+message = ("Hello, welcome to Python! ")
 print(message)
 
 # --- Snippet 2 ---
@@ -84,7 +84,7 @@ favorite_sport = ("basketball")
 
 # --- Snippet 16 ---
 # This should display a greeting
-morning_greeting = ("Rise and shine!")
+morning_greeting = ("Rise and shine! ")
 print(f"{morning_greeting}")
 
 # --- Snippet 17 ---
@@ -111,18 +111,18 @@ print(f"My favorite season is {favorite_season}")
 # This should check if the weather is hot
 temperature = 95
 if temperature >= 90:
-    print("It is hot outside!")
+    print("It is hot outside! ")
 
 # --- Snippet 22 ---
 # This should check if a student passed
 score = 85
 if score >= 70:
-    print("You passed!")
+    print("You passed! ")
 
 # --- Snippet 23 ---
 # This should display a message based on age
 age = 18
 if age >= 18:
-    print("You are an adult.")
+    print("You are an adult. ")
 else
-    print("You are a minor.")
+    print("You are a minor. ")
