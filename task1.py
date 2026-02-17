@@ -39,7 +39,7 @@ print(f"I am reading {book_title}")
 
 # --- Snippet 7 ---
 # This should display a greeting
-greeting = ("Good morning!")
+greeting = ("Good morning! ")
 print(f"{greeting}")
 
 # --- Snippet 8 ---
@@ -50,7 +50,7 @@ print(f"The temperature is {temperature} degrees")
 # --- Snippet 9 ---
 # This should display a team name
 team_name = ("Eagles")
-print(f"Go {team_name}!")
+print(f"Go {team_name}! ")
 
 # --- Snippet 10 ---
 # This should display a food item
@@ -60,7 +60,7 @@ print(f"I love (favorite_food}")
 # --- Snippet 11 ---
 # This should display an animal
 animal = ("dog")
-print(f"My favorite animal is {animal}')
+print(f"My favorite animal is {animal}")
 
 # --- Snippet 12 ---
 # This should display a school name
