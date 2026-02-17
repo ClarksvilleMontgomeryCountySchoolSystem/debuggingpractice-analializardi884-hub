@@ -55,7 +55,7 @@ print(f"Go {team_name}! ")
 # --- Snippet 10 ---
 # This should display a food item
 favorite_food = ("pizza")
-print(f"I love (favorite_food}")
+print(f"I love {favorite_food}")
 
 # --- Snippet 11 ---
 # This should display an animal
