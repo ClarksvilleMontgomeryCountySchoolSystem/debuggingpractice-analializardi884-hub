@@ -9,7 +9,7 @@
 
 # --- Snippet 1 ---
 # This should display a greeting
-message = ("Hello, welcome to Python! ")
+message = ("Hello, welcome to Python!")
 print(message)
 
 # --- Snippet 2 ---
