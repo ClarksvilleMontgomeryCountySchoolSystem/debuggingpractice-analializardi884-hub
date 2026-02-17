@@ -110,14 +110,14 @@ print(f"My favorite season is {favorite_season}")
 # --- Snippet 21 ---
 # This should check if the weather is hot
 temperature = 95
-if temperature > 90
+if temperature >= 90:
     print("It is hot outside!")
 
 # --- Snippet 22 ---
 # This should check if a student passed
 score = 85
 if score >= 70:
-print("You passed!")
+    print("You passed!")
 
 # --- Snippet 23 ---
 # This should display a message based on age
