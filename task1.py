@@ -40,7 +40,7 @@ print(f"I am reading {book_title}")
 # --- Snippet 7 ---
 # This should display a greeting
 greeting = "Good morning! "
-print(f"{greeting}")
+print(greeting)
 
 # --- Snippet 8 ---
 # This should display a temperature
