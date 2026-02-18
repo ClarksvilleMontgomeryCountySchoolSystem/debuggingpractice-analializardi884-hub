@@ -34,7 +34,7 @@ print(f"I have {number_of_pets} pets")
 
 # --- Snippet 6 ---
 # This should display a book title
-book_title = ("The Great Gatsby")
+book_title = "The Great Gatsby"
 print(f"I am reading {book_title}")
 
 # --- Snippet 7 ---
