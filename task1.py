@@ -110,7 +110,7 @@ print(f"My favorite season is {favorite_season}")
 # --- Snippet 21 ---
 # This should check if the weather is hot
 temperature = 95
-if temperature = "90"
+if temperature >= "90"
     print("It is hot outside!")
 
 # --- Snippet 22 ---
@@ -122,7 +122,7 @@ if score >= 70:
 # --- Snippet 23 ---
 # This should display a message based on age
 age = 18
-if age > 18:
+if age >= 18:
     print("You are an adult. ")
 else:
     print("You are a minor. ")
