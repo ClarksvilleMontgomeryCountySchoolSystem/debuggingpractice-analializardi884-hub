@@ -94,8 +94,8 @@ print(f"My car is {car_color}")
 
 # --- Snippet 18 ---
 # This should display a day
-3rd_day = "Wednesday"
-print(f"Today is {3rd_day}")
+rd_day = "Wednesday"
+print(f"Today is {rd_day}")
 
 # --- Snippet 19 ---
 # This should display a state
@@ -124,5 +124,5 @@ if score >= 70:
 age = 18
 if age >= 18:
     print("You are an adult. ")
-else
+else:
     print("You are a minor. ")
