@@ -9,7 +9,7 @@
 
 # --- Snippet 1 ---
 # This should display a greeting
-message = ("Hello, welcome to Python!")
+message = "Hello, welcome to Python! "
 print(message)
 
 # --- Snippet 2 ---
@@ -124,5 +124,5 @@ if score >= 70:
 age = 18
 if age > 18:
     print("You are an adult. ")
-else
+else:
     print("You are a minor. ")
