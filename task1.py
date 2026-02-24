@@ -110,7 +110,7 @@ print(f"My favorite season is {favorite_season}")
 # --- Snippet 21 ---
 # This should check if the weather is hot
 temperature = 95
-if temperature >= "90"
+if temperature >= "90":
     print("It is hot outside!")
 
 # --- Snippet 22 ---
